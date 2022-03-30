@@ -1,0 +1,16 @@
+Algoritmo "portfolio 1"
+
+Var
+a, b, c: real
+
+
+Inicio
+escreval ("Insira o primeiro valor:")
+leia (a)
+escreval ("Insira o segundo valor, não podendo este ser 0:")
+leia (b)
+c <- a/b
+escreval ("A divisão do primeiro pelo segundo valor será:", c)
+
+
+Fimalgoritmo
